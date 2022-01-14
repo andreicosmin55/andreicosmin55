@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andreicosmin55
 - 👀 I’m interested in programming and gaming
-- 🌱 I’m currently learning Computer Science in College
+- 🌱 I’m currently learning Computer Science at University of Bucharest
 - 💞️ I’m looking to collaborate on any project that's offered
 - 📫 You can reach me on email: andreisteaua23@yahoo.com
 
